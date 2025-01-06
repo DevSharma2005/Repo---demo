@@ -1,2 +1,2 @@
-# Repo---demo
+# Repo-demo
 THIS IS MY FIRST REPO
